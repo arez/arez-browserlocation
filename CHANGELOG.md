@@ -2,6 +2,7 @@
 
 ### Unreleased
 
+* Update the 'org.realityforge.arez' dependencies to version '0.121'
 * Remove deployment from TravisCI infrastructure as it is no longer feasible.
 
 ### [v0.46](https://github.com/arez/arez-browserlocation/tree/v0.46) (2018-12-10)
