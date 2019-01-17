@@ -16,7 +16,7 @@ The simplest way to use component;
 <dependency>
    <groupId>org.realityforge.arez.browserlocation</groupId>
    <artifactId>arez-browserlocation</artifactId>
-   <version>0.48</version>
+   <version>0.49</version>
 </dependency>
 ```
 
