@@ -2,7 +2,7 @@
 
 ### Unreleased
 
-* Upgrade the `org.realityforge.com.google.elemental2` artifacts to version `1.0.0-b17-6897368`.
+* Upgrade the `org.realityforge.com.google.elemental2` artifacts to version `.0.0-b18-f3472e7`.
 
 ### [v0.56](https://github.com/arez/arez-browserlocation/tree/v0.56) (2019-02-14)
 [Full Changelog](https://github.com/arez/arez-browserlocation/compare/v0.55...v0.56)
